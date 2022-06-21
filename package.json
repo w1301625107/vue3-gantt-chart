@@ -1,0 +1,22 @@
+{
+  "name": "newvuegantt",
+  "private": true,
+  "engines": {
+    "node": ">=14.18.0"
+  },
+  "version": "0.0.1",
+  "description": "gantt chart for vue3",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gantt"
+  ],
+  "author": "wuchouchou",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0"
+  }
+}
